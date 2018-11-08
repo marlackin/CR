@@ -1,0 +1,7 @@
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\bin\Debug\ContrOOP.exe.config
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\bin\Debug\ContrOOP.exe
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\bin\Debug\ContrOOP.pdb
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\obj\Debug\ContrOOP.csprojAssemblyReference.cache
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\obj\Debug\ContrOOP.csproj.CoreCompileInputs.cache
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\obj\Debug\ContrOOP.exe
+D:\!Фит ПОИТ\!3 семестр\ООП\CR_Soikel\ContrOOP\ContrOOP\obj\Debug\ContrOOP.pdb
